@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Brittany Carlton</h1>
 <h3 align="center">A passionate full-stack web developer from the US</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devbritt&label=Profile%20views&color=0dcae3&style=flat" alt="devbritt" /> </p>
+<p align="center"> <img src="https://www.codewars.com/users/devBritt/badges/micro" alt="codewars badge" /> </p>
 
 - 🌱 I’m currently learning **React and Docker**
 
 - 👨‍💻 All of my projects are available at [https://devbritt.github.io/britt-carlton-portfolio/](https://devbritt.github.io/britt-carlton-portfolio/)
 
-- 📫 How to reach me **brittanyrc95@gmail.com**
+- 📫 How to reach me **britt_carlton@proton.me**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1J94ohB1FARKb71ZOUN4h_GHuE2Ym7zY3EXJaX4OJ7TA/edit?usp=sharing](https://docs.google.com/document/d/1J94ohB1FARKb71ZOUN4h_GHuE2Ym7zY3EXJaX4OJ7TA/edit?usp=sharing)
 
